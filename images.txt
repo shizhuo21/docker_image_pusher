@@ -1,3 +1,2 @@
-php
-prom/prometheus：2.53.0
-prom/alermanager：0.27.0
+prom/prometheus-linux-arm64:v2.53.0
+prom/alertmanager-linux-arm64:v0.27.0
